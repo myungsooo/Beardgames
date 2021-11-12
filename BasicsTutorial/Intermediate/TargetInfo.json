@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicsTutorial",
+			"Path": "/Users/song/soo/Beardgames/BasicsTutorial/Source/BasicsTutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicsTutorialEditor",
+			"Path": "/Users/song/soo/Beardgames/BasicsTutorial/Source/BasicsTutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
